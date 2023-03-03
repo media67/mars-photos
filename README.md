@@ -29,3 +29,11 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+Links found during the codelab
+------------------------------
+
+[REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+[Retrofit](https://square.github.io/retrofit/)
+[Moshi](https://github.com/square/moshi)
+[URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
