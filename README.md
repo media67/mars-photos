@@ -37,3 +37,5 @@ Links found during the codelab
 [Retrofit](https://square.github.io/retrofit/)
 [Moshi](https://github.com/square/moshi)
 [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+[object declarations](https://kotlinlang.org/docs/reference/object-declarations.html#object-declarations)
+[Singleton pattern](https://en.wikipedia.org/wiki/Singleton_pattern)
