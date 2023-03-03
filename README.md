@@ -42,3 +42,7 @@ Links found during the codelab
 [viewModelScope](https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope)
 [Permissions overview documentation](https://developer.android.com/guide/topics/permissions/overview) 
 [Exception handling](https://developer.android.com/reference/java/lang/Exception)
+
+Learn More
+----------
+To add when copy/paste works properly.
