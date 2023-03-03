@@ -43,6 +43,7 @@ Links found during the codelab
 [Permissions overview documentation](https://developer.android.com/guide/topics/permissions/overview) 
 [Exception handling](https://developer.android.com/reference/java/lang/Exception)
 [Coil](https://coil-kt.github.io/coil/)
+[Binding adapters](https://developer.android.com/topic/libraries/data-binding/binding-adapters)
 
 Learn More
 ----------
