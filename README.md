@@ -41,3 +41,4 @@ Links found during the codelab
 [Singleton pattern](https://en.wikipedia.org/wiki/Singleton_pattern)
 [viewModelScope](https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope)
 [Permissions overview documentation](https://developer.android.com/guide/topics/permissions/overview) 
+[Exception handling](https://developer.android.com/reference/java/lang/Exception)
