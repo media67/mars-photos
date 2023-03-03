@@ -39,4 +39,5 @@ Links found during the codelab
 [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
 [object declarations](https://kotlinlang.org/docs/reference/object-declarations.html#object-declarations)
 [Singleton pattern](https://en.wikipedia.org/wiki/Singleton_pattern)
-[ViewScopeModel](https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope)
+[viewModelScope](https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope)
+[Permissions overview documentation](https://developer.android.com/guide/topics/permissions/overview) 
